@@ -173,8 +173,8 @@ public class AppController {
      * @return DBXClient object used to communicate with DropBox
      */
     private boolean initDropBox() {
-        final String DROPBOX_APP_KEY = "6b7fjarup3twl4x";
-        final String DROPBOX_APP_SECRET = "99sr2wvp66cu2de";
+        final String DROPBOX_APP_KEY = "xxx";
+        final String DROPBOX_APP_SECRET = "xxx";
         String DROPBOX_AUTH_CODE;
 
         DbxAppInfo dbxAppInfo;
